@@ -58,8 +58,9 @@ Users can interact with the dashboard using filters:
 
 ---
 
-## Dashboard Screenshot
-'/Users/akhilnashaboina/Documents/Looker Dashboard/Looker Sales Dashboard.png'
+## Dashboard
+<img width="1310" height="811" alt="Looker Sales Dashboard" src="https://github.com/user-attachments/assets/aa35925d-fa77-4a6b-8d9a-951901682f59" />
+
 
 ---
 
