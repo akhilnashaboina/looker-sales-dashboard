@@ -1,5 +1,8 @@
 # Looker Sales Analytics Dashboard
 
+## Dashboard
+<img width="1310" height="811" alt="Looker Sales Dashboard" src="https://github.com/user-attachments/assets/aa35925d-fa77-4a6b-8d9a-951901682f59" />
+
 ## Project Overview
 This project showcases an interactive sales analytics dashboard built using Looker.  
 The dashboard analyzes sales performance across regions, product categories, customer types, and sales representatives using a synthetic sales dataset.
@@ -55,12 +58,6 @@ Users can interact with the dashboard using filters:
 - Payment Method
 - Sales Channel
 - Date range
-
----
-
-## Dashboard
-<img width="1310" height="811" alt="Looker Sales Dashboard" src="https://github.com/user-attachments/assets/aa35925d-fa77-4a6b-8d9a-951901682f59" />
-
 
 ---
 
