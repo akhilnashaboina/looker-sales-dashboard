@@ -1,6 +1,5 @@
 # Looker Sales Analytics Dashboard
 
-## Dashboard
 <img width="1310" height="811" alt="Looker Sales Dashboard" src="https://github.com/user-attachments/assets/aa35925d-fa77-4a6b-8d9a-951901682f59" />
 
 ## Project Overview
