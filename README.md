@@ -3,8 +3,9 @@
 <img width="1310" height="811" alt="Looker Sales Dashboard" src="https://github.com/user-attachments/assets/aa35925d-fa77-4a6b-8d9a-951901682f59" />
 
 ## Project Overview
-This project showcases an interactive sales analytics dashboard built using Looker.  
-The dashboard analyzes sales performance across regions, product categories, customer types, and sales representatives using a synthetic sales dataset.
+This project showcases an interactive sales analytics dashboard built using Looker to analyze **$2.53M in total sales and 12.53K units sold** across multiple dimensions.
+
+The dashboard provides insights into sales performance across **4 regions, 4 product categories, and 5 sales representatives** over a **7-month period (July 2023 – January 2024)** using a synthetic sales dataset.
 
 The goal of this project is to demonstrate skills in:
 - Data modeling and exploration
@@ -15,7 +16,8 @@ The goal of this project is to demonstrate skills in:
 ---
 
 ## Dataset Description
-Each row represents a single sales transaction from the year 2023.
+Each row represents a single sales transaction from the year 2023.  
+The dataset is synthetic and created for learning and portfolio purposes only.
 
 ### Key Columns
 - **Product_ID**: Unique identifier for each product
@@ -37,15 +39,25 @@ Each row represents a single sales transaction from the year 2023.
 ## Dashboard Metrics
 The Looker dashboard provides insights into:
 
-- **Total Sales Amount**
-- **Total Quantity Sold**
+- **Total Sales Amount ($2.53M)**
+- **Total Quantity Sold (12.53K units)**
 - **Average Unit Cost**
 - **Average Unit Price**
-- Sales trends over time
-- Sales performance by region
+- Monthly sales trends
+- Regional sales performance
 - Product category contribution
 - Sales representative performance
-- New vs Returning customer split
+- New vs Returning customer distribution
+
+---
+
+## Key Insights
+- Generated **$2.53M in total sales** from **12.53K units sold**
+- **North region** contributed the highest revenue at approximately **$714K**
+- **South region** recorded the lowest sales at approximately **$545K**
+- **Returning customers (51.2%)** slightly outperformed new customers (48.8%)
+- Sales peaked between **October and November 2023**, followed by a decline in January
+- Clothing and Food categories showed consistent performance across regions
 
 ---
 
@@ -68,7 +80,7 @@ Users can interact with the dashboard using filters:
 ---
 
 ## Key Learnings
-- Designed business-friendly KPIs for sales analysis
-- Built interactive Looker dashboards with filters
-- Translated raw transaction data into actionable insights
-- Practiced storytelling with data for leadership audiences
+- Designed executive-friendly KPIs to track sales performance
+- Built interactive dashboards with drill-down and filtering capabilities
+- Translated transactional sales data into meaningful business insights
+- Practiced data storytelling for leadership and non-technical stakeholders
